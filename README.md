@@ -2,7 +2,7 @@
 
 ## O USO MATHPLAY COMO FERRAMENTA DE AUXÍLIO NO PROCESSO DE ENSINO-APRENDIZAGEM DA MATEMÁTICA NO 6º ANO
 
-Este repositório contém o trabalho de conclusão de curso (TCC) do curso de Licenciatura em Informática, realizado no Instituto Federal do Pará, Campus Castanhal. O tema do TCC é "O Uso MathPlay como Ferramenta de Auxílio no Processo de Ensino-Aprendizagem da Matemática no 6º Ano".
+Este repositório contém o trabalho de conclusão de curso (TCC)  de Licenciatura em Informática, realizado no Instituto Federal do Pará, Campus Castanhal. O tema do TCC é "O Uso MathPlay como Ferramenta de Auxílio no Processo de Ensino-Aprendizagem da Matemática no 6º Ano".
 
 ### Objetivo Geral
 
